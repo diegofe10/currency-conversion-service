@@ -1,4 +1,4 @@
-package com.in28minutes.microservices.currencyconversionservice;
+package com.conversao.de.moeda.currencyconversionservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
