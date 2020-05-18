@@ -1,4 +1,4 @@
-package br.com.conversao.de.moeda.currencyconversionservice;
+package br.com.currency.conversion.service;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.cloud.netflix.ribbon.RibbonClient;

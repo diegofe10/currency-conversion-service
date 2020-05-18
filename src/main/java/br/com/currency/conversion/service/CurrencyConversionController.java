@@ -1,4 +1,4 @@
-package br.com.conversao.de.moeda.currencyconversionservice;
+package br.com.currency.conversion.service;
 
 import java.math.BigDecimal;
 import java.util.HashMap;
