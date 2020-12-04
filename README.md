@@ -46,4 +46,3 @@ $ docker run -d --rm --network=host ${APPLICATION_NAME}:latest
 ```
 $ docker stop ${CONTAINER_ID}
 ```
-
