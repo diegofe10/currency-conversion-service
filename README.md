@@ -1,4 +1,4 @@
-# Currency Conversion Service
+## Currency Conversion Service
 
 An microservice with Java 8, Spring Cloud Finchley M8, Open Feign for RESTful Client, Netflix Ribbon, Spring Cloud Config Client, Spring Cloud Sleuth, Zipkin, Spring Cloud Starter Bus, JUnit 4 for unit testing
 
